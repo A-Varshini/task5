@@ -1,7 +1,9 @@
 
-import React, { useState } from 'react';
-import { createRoot } from "https://esm.run/react-dom@18/client";
-import confetti from "https://esm.run/canvas-confetti@1";
+// import React, { useState } from 'react';
+// import { createRoot } from "https://esm.run/react-dom@18/client";
+// import confetti from "https://esm.run/canvas-confetti@1";
+import React, { useState } from "react";
+import confetti from "canvas-confetti";
 
 const AgeCalc = () => {
 
